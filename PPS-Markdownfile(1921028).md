@@ -416,40 +416,8 @@ table of:5
 
 ```
 
-## 13)To show  table of any given number
-```
-#include <stdio.h>
-int main()
-{
-    int n, i;
-    printf("Enter an integer: ");
-    scanf("%d",&n);
-    for(i=1; i<=10; ++i)
-    {
-        printf("%d * %d = %d \n", n, i, n*i);
-    }
-    
-    return 0;
-}
-```
 
-**Output:-**
-```
-#include <stdio.h>
-int main()
-{
-    int n, i;
-    printf("Enter an integer: ");
-    scanf("%d",&n);
-    for(i=1; i<=10; ++i)
-    {
-        printf("%d * %d = %d \n", n, i, n*i);
-    }
-    
-    return 0;
-}
-```
-## 14)To show result of operands
+## 13)To show result of operands
 
   ```
 #include<stdio.h>
@@ -490,7 +458,7 @@ The result is:150.00
 
 ```
 
-## 15)To call a patterns of face and calculator
+## 14)To call a patterns of face and calculator
 
    ```
 
@@ -581,7 +549,7 @@ ___________________
 
 ```
 
-## 16)To convert fahrenheit to celsius and kelvin
+## 15)To convert fahrenheit to celsius and kelvin
 
    ```
  #include<stdio.h>
@@ -607,7 +575,7 @@ kelvin value is:505.37
 
 ```
 
-## 17)To show stars pattern
+## 16)To show stars pattern
 
   ```
 #include<stdio.h>
@@ -644,7 +612,7 @@ Enter the value to show pattern:8
 
 ```
 
-## 18)To show factorial result
+## 17)To show factorial result
 
 ```
 #include<stdio.h>
@@ -672,7 +640,7 @@ Enter the factorial of:4
 
 ```
 
-## 19)To show stars pattern
+## 18)To show stars pattern
 
 ```
 #include<stdio.h>
@@ -706,7 +674,7 @@ Enter the value upto pattern is shown:5
 * * * * * 
 ```
 
-## 20)Matrix multipication
+## 19)Matrix multipication
  
   ```
 #include<stdio.h>
