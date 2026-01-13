@@ -1,8 +1,8 @@
 ![enter image description here](https://lh3.googleusercontent.com/vVnH6BXe-LhJsPfOsgew6B8F71aXmb7rVa7Z6HBNYyRpZ_pcReGF2OtL8iwd2MX3qC6zUX5Axfwm)
 # **Programming for Problem Solving**
-## **Name:- Ekam Preet Singh**
-## **CRN:-1921028/1905327**
-## **Branch:- IT-A1**
+## **Name:- Abhishek Tiwari**
+## **CRN:-1915005/1904975**
+## **Branch:- CSE-A1**
 ## **Subject code: ESC18104/18105**
 ## **Submitted To:- Ms. Ranjodh Kaur**
 
